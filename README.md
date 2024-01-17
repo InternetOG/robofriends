@@ -3,6 +3,7 @@ This project was created using using REACT + VITE and Tailwind CSS
 The App consumes API from the following Base URLs which were called to display the Name, Email and 2D pictures respectively:
 
 https://jsonplaceholder.typicode.com/
+
 https://robohash.org/
 
 To Run this project:
